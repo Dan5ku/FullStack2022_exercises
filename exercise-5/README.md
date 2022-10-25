@@ -1,6 +1,6 @@
 # Exercise 5
 
-![Screenshot 2022-10-25 225306](https://user-images.githubusercontent.com/101790331/197869008-4fa3633f-3f3a-459a-bd56-4b0fd22f2547.png)
+![Screenshot 2022-10-25 232024](https://user-images.githubusercontent.com/101790331/197873825-fbcdc14a-69b3-47f9-b793-248dac6baa5c.png)
 
 
 # Getting Started with Create React App
