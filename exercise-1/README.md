@@ -17,7 +17,7 @@ Open the exercise-1 folder in VS Code. (You might also type command: 'code .' in
 -this opens VS Code in the correct folder automatically.)
 In the folder 'src' open the file called 'App.js'. You will notice it contains the stuff we see on the web page.
 Remove the link (from '<a' to '</a>'). Save, and you will see that the link was removed from the page.
-Change the paragraph text (between '<p>'and'</p>') to your name. Save, and see that the text was changed on the web page.
+Change the paragraph text (between <p> and </p>) to your name. Save, and see that the text was changed on the web page.
 
 Next, we will put our exercises in to GitHub.
 First, go to your GitHub account and create a new repository. Set the option to 'Private'. This will give you the necessary instructions.
