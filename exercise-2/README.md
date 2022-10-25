@@ -1,0 +1,18 @@
+# Exercise 2
+
+1.React is a declarative, efficient, and flexible JavaScript library for building user interfaces. 
+It lets you compose complex UIs from small and isolated pieces of code called “components”.
+
+2.Components are independent and reusable bits of code. 
+They serve the same purpose as JavaScript functions, but work in isolation and return HTML.
+
+3.A single-page application (SPA) is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, 
+instead of the default method of a web browser loading entire new pages.
+
+4.Declarative programming is a method to abstract away the control flow for logic required for software to perform an action, 
+and instead involves stating what the task or desired outcome is.
+
+5.JSX, and it is a syntax extension to JavaScript. We recommend using it with React to describe what the UI should look like. 
+JSX may remind you of a template language, but it comes with the full power of JavaScript
+
+6.Asynchronous is a non-blocking architecture, which means it doesn’t block further execution while one or more operations are in progress.
