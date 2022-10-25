@@ -1,3 +1,34 @@
+# EXERCISE 1.
+
+You probably want to create a folder for this course on your computer, something like: 'FullStack2022'.
+Whatever name you choose, go inside that folder and create a folder for the exercises of this course called: 'Exercises'.
+Open your command line interface (e.g. Git Bash) in the Exercises folder.
+Run the command: 'npx create-react-app exercise-1'
+This will create a new React project called exercise-1. This can take a couple of minutes.
+Note: on the first time you do this it will also install React.
+
+After the process finished, type commands: 'cd exercise-1' and there: 'npm start'.
+This will start the local development server and also automatically opens a browser window in the address: localhost:3000/
+On the web page you should see a rotating React logo.
+Note: Firewall might try to prevent this, so you need to allow it.
+Note: Whenever you wish to stop to server, press Ctrl+C on the CLI window.
+
+Open the exercise-1 folder in VS Code. (You might also type command: 'code .' in the exercise-1 folder before starting the server
+-this opens VS Code in the correct folder automatically.)
+In the folder 'src' open the file called 'App.js'. You will notice it contains the stuff we see on the web page.
+Remove the link (from '<a' to '</a>'). Save, and you will see that the link was removed from the page.
+Change the paragraph text (between '<p>' and '</p>') to your name. Save, and see that the text was changed on the web page.
+
+Next, we will put our exercises in to GitHub.
+First, go to your GitHub account and create a new repository. Set the option to 'Private'. This will give you the necessary instructions.
+But because it's a private repo, in order to show it to the teacher, you must add him as a collaborator (from Settings).
+But imporant: We want to create a repository out of the 'Exercises' folder, not the newly created 'exercise-1'.
+So, for running 'git init' navigate back to the 'Exercises' folder, and run it there.
+This way we can put all the exercises of this course to one repository - much easier than having a separate repo for every exercise.
+Follow GitHubs instructions to push your React app to GitHub.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
